@@ -155,6 +155,7 @@ Los directorios `data/` y `results/` pueden excluirse del repositorio si contien
 
 ## Instalacion
 
+El notebook se desarrolló con Python 3.8.10.
 Se recomienda utilizar un entorno virtual:
 
 ```bash
