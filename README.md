@@ -156,6 +156,8 @@ Los directorios `data/` y `results/` pueden excluirse del repositorio si contien
 ## Instalacion
 
 El notebook se desarrolló con Python 3.8.10.
+El entorno original utilizó PyTorch 2.4.1 con CUDA 12.1 (`torch==2.4.1+cu121`). La instalación de PyTorch puede variar según la GPU y la versión de CUDA disponible.
+
 Se recomienda utilizar un entorno virtual:
 
 ```bash
